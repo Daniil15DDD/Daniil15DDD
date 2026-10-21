@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://github.com/Daniil15DDD/ORBT"><img src="https://raw.githubusercontent.com/Daniil15DDD/ORBT/main/assets/hero.png" alt="ORBT" width="720"></a>
+<a href="https://github.com/Daniil15DDD/ORBT"><img src="https://raw.githubusercontent.com/Daniil15DDD/ORBT/main/assets/hero.png?v=2" alt="ORBT" width="720"></a>
 
 <br><br>
 
